@@ -1,4 +1,4 @@
-# cmake-issue-recreation
+# Error when spceifying ncv++ as CMAK_CUDA_COMPILER
 
 Clone the repo:
 
